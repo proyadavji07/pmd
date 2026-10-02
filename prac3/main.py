@@ -1,3 +1,6 @@
+# git add .
+# git commit -m "First Commit"
+# git push origin main
 def to_upper(name):
     return name.upper()
 
